@@ -1,0 +1,4 @@
+*.joblib
+*.pyc
+*pickle
+# text-flappy-bird-ym
